@@ -1,0 +1,18 @@
+﻿Add geckodriver to PATH: export PATH=$PATH:/path-to-extracted-file/geckodriver
+
+Pyc: what are those.
+
+Create a virtualenv: virtualenv -p /usr/bin/pythonx.x nameEnv
+activate env: source *nameEnv*/bin/activate
+deactive env: deactivate
+
+start django project: django-admin.py startproject *nameProject*
+start django server: manage.py runserver
+
+Start repository: git init
+Add a file to .gitignonre: echo “*file_name*” >> .gitignore
+git status
+¿git rm -r –cached?
+¿git alias?
+Git config list: git config –list
+

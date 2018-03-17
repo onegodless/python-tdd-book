@@ -8,6 +8,7 @@ deactive env: deactivate
 
 start django project: django-admin.py startproject *nameProject*
 start django server: manage.py runserver
+create app: python manage.py startapp *nameApp*
 
 Start repository: git init
 Add a file to .gitignonre: echo “*file_name*” >> .gitignore
@@ -17,6 +18,4 @@ git status
 Git config list: git config –list
 git remote add origin https://github.com/onegodless/python-tdd-book.git
 git push -u origin master
-
-
-
+git automatically commit any change to tracked files: git commit -a 

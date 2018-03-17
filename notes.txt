@@ -15,4 +15,8 @@ git status
 ¿git rm -r –cached?
 ¿git alias?
 Git config list: git config –list
+git remote add origin https://github.com/onegodless/python-tdd-book.git
+git push -u origin master
+
+
 

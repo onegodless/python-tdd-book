@@ -2,7 +2,7 @@
 
 Pyc: what are those.
 
-Create a virtualenv: virtualenv -p /usr/bin/pythonx.x nameEnv
+Create a virtualenv: virtualenv -p /usr/bin/pythonx.x *nameEnv*
 activate env: source *nameEnv*/bin/activate
 deactive env: deactivate
 
